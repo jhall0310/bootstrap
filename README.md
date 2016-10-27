@@ -31,7 +31,7 @@ Bootstrap is a **library of CSS classes** that helps make any old site look nice
 
 ##Intro to Bootstrap
 
-[!boots](http://i.giphy.com/iZOuVKrX2SvQs.gif)
+![boots](http://i.giphy.com/iZOuVKrX2SvQs.gif)
 
 * [Bootstrap](http://getbootstrap.com/) is a **front-end framework** created by a small team of developers at Twitter and maintained by a much larger community of contributors.
 * The framework consists of one main CSS file, an optional theme CSS file, and a main JS file.
